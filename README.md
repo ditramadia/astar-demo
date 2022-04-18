@@ -4,7 +4,7 @@ Shortest Path Algorithm pada Aplikasi Google Maps <br />
 menggunakan Algoritma A* <br />
 <br />
 Dosen: <br />
-Infall <br />
+Dr.Eng. Infall Syafalni, S.T., M.Sc. <br />
 <br />
 Anggota: <br />
 Ahmad Nadil (16521516@std.stei.itb.ac.id)<br />
