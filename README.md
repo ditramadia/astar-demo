@@ -1,4 +1,4 @@
-# TUGAS BESAR PENGENALAN REKAYASA DAN
+# TUGAS BESAR PENGENALAN REKAYASA DAN DESAIN
 ## Anggota:
 - Ahmad Nadil (16521516@std.stei.itb.ac.id
 - Adrian Fahri Affandi (16521503@std.stei.itb.ac.id
