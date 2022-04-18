@@ -13,7 +13,7 @@
 ### Shortest Path Algorithm pada Aplikasi Google Maps menggunakan Algoritma A* pada bahasa Python
 
 ## Cara Menjalankan :
-1. Ini meurpakan contoh graph tree yang kami gunakan
+1. Ini merupakan contoh graph tree yang kami gunakan
 ![](https://raw.githubusercontent.com/ditramadia/astar-demo/master/Node%20Contoh.jpg)
 2. Input Node Awal dan Akhir pada program
 
