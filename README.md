@@ -1,11 +1,11 @@
-# TUGAS BESAR PENGENALAN REKAYASA DAN DESAIN
+# TUGAS BESAR PENGENALAN REKAYASA DAN DESAIN KU-1202 - K73
 ## Anggota:
-- Ahmad Nadil (16521516@std.stei.itb.ac.id
-- Adrian Fahri Affandi (16521503@std.stei.itb.ac.id
-- Justin Yusuf Abidjoko (16521494@std.stei.itb.ac.id
-- Ditra Rizqa Amadia (16521531@std.stei.itb.ac.id
-- Kelvin Rayhan Alkarim (16521496@std.stei.itb.ac.id
-- Raditya Naufal Abiyu (16521534@std.stei.itb.ac.id
+- Ahmad Nadil (16521516@std.stei.itb.ac.id)
+- Adrian Fahri Affandi (16521503@std.stei.itb.ac.id)
+- Justin Yusuf Abidjoko (16521494@std.stei.itb.ac.id)
+- Ditra Rizqa Amadia (16521531@std.stei.itb.ac.id)
+- Kelvin Rayhan Alkarim (16521496@std.stei.itb.ac.id)
+- Raditya Naufal Abiyu (16521534@std.stei.itb.ac.id)
 
 ## Dosen:
 - Dr.Eng. Infall Syafalni, S.T., M.Sc.
